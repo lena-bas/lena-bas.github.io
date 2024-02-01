@@ -19,7 +19,7 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bd1de0762acbe3b4400cc163b62365300f41d345/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/f20a306912fcc303c9cf69025e49390c62c66a14/bundle_example_app.js",
       "includedModules": [
         "example/contactListItem/v/0_0_1",
         "example/eventWithData/v/0_0_1",
