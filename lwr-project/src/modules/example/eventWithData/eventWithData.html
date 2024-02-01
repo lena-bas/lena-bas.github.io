@@ -1,0 +1,17 @@
+<template>
+  <ui-card title="Event With Data">
+
+    <template for:each={contacts.data} for:item="contact">
+      <example-contact-list-item
+        key={contact.Id}
+        contact={contact}
+        oncontactselected={handleContactSelected}
+      ></example-contact-list-item>
+    </template>
+    selected contact:
+    <template lwc:if={selectedContact}>
+        {selectedContact.Name}
+    </template>
+    after
+  </ui-card>
+</template>

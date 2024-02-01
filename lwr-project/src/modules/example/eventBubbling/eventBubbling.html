@@ -1,0 +1,40 @@
+<template>
+    <ui-card title="EventBubbling">
+        <template lwc:if={contacts.data}>
+            <div class="contacts">
+                <!-- example-contact-list-item-bubbling emits a bubbling event so a single listener on a containing element works -->
+                <div class="contact-list" oncontactselect={handleContactSelect}>
+                    <template for:each={contacts.data} for:item="contact">
+                        <example-contact-list-item-bubbling
+                            key={contact.Id}
+                            contact={contact}
+                        ></example-contact-list-item-bubbling>
+                    </template>
+                </div>
+                <div class="contact-details">
+                    <template lwc:if={selectedContact}>
+                        <img
+                            src={selectedContact.Picture}
+                            alt="Profile photo"
+                        />
+                        <p>{selectedContact.Name}</p>
+                        <p>{selectedContact.Title}</p>
+                        <p>
+                            <ui-output
+                                type="phone"
+                                value={selectedContact.Phone}
+                            ></ui-output>
+                        </p>
+                        <p>
+                            <ui-output
+                                type="email"
+                                value={selectedContact.Email}
+                            ></ui-output>
+                        </p>
+                    </template>
+                </div>
+            </div>
+        </template>
+        
+    </ui-card>
+</template>
