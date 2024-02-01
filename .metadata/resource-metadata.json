@@ -1,14 +1,12 @@
 {
   "resources": {
     "lwr-error-shim.js": {
-      "path": "/1/resource/amd/lwr-error-shim.js/v/0_11_12/lwr-error-shim.js",
-      "mimeType": "application/javascript",
-      "inline": true
+      "path": "/1/resource/amd/lwr-error-shim.js/v/0_9_0/lwr-error-shim.js",
+      "mimeType": "application/javascript"
     },
     "lwr-loader-shim.bundle.min.js": {
-      "path": "/1/resource/amd/lwr-loader-shim.bundle.min.js/v/0_11_12/lwr-loader-shim.bundle.min.js",
-      "mimeType": "application/javascript",
-      "inline": false
+      "path": "/1/resource/amd/lwr-loader-shim.bundle.min.js/v/0_9_0/lwr-loader-shim.bundle.min.js",
+      "mimeType": "application/javascript"
     }
   }
 }
