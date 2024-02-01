@@ -1,17 +1,36 @@
 {
-    "lwc": { "modules": [{ "dir": "$rootDir/src/modules" }] },
+    "lwc": { 
+        "modules": [
+            { "dir": "$rootDir/src/modules" },
+            {
+                "npm": "lwc-recipes-oss-ui-components"
+            }
+        ] 
+    },
     "routes": [
         {
             "id": "example",
             "path": "/",
             "rootComponent": "example/app"
+        },
+        {
+            "id": "Home",
+            "path": "/home",
+            "contentTemplate": "$contentDir/home.md",
+            "layoutTemplate": "$layoutsDir/main_layout.njk"
+        },
+        {
+            "id": "About",
+            "path": "/about",
+            "contentTemplate": "$contentDir/about.md",
+            "layoutTemplate": "$layoutsDir/main_layout.njk"
         }
     ],
     "assets": [
         {
             "alias": "assetsDir",
             "dir": "$rootDir/src/assets",
-            "urlPath": "/public/assets"
+            "urlPath": "/assets"
         },
         {
             "alias": "favicon",
