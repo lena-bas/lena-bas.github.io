@@ -30,19 +30,19 @@
   },
   {
    "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1",
-   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/efa3c171276963a4cdab6e64bcf2ba12c5c9fbdf/bundle_example_app.js"
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1c528dbef484c9fef750ec3c090c048f281ae378/bundle_example_app.js"
   },
   {
    "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1",
-   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/efa3c171276963a4cdab6e64bcf2ba12c5c9fbdf/bundle_example_app.js"
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1c528dbef484c9fef750ec3c090c048f281ae378/bundle_example_app.js"
   },
   {
    "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app",
-   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/efa3c171276963a4cdab6e64bcf2ba12c5c9fbdf/bundle_example_app.js"
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1c528dbef484c9fef750ec3c090c048f281ae378/bundle_example_app.js"
   },
   {
    "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example%2Fapp",
-   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/efa3c171276963a4cdab6e64bcf2ba12c5c9fbdf/bundle_example_app.js"
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1c528dbef484c9fef750ec3c090c048f281ae378/bundle_example_app.js"
   }
  ],
  "directoryListing": false,

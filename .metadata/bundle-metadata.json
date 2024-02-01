@@ -22,7 +22,7 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/efa3c171276963a4cdab6e64bcf2ba12c5c9fbdf/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1c528dbef484c9fef750ec3c090c048f281ae378/bundle_example_app.js",
       "includedModules": [],
       "imports": [
         "lwc/v/5_0_0"
