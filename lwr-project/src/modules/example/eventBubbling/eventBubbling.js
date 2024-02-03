@@ -8,6 +8,6 @@ export default class EventBubbling extends LightningElement {
 
     handleContactSelect(event) {
         this.selectedContact = event.target.contact;
-        alert("Test" + event.target.budala);
+        // alert("Test" + event.target.contact.Picture);
     }
 }

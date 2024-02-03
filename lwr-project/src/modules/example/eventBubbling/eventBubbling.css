@@ -29,9 +29,11 @@ div.contacts {
 }
 
 .contact-details {
+    color: lightblue;
     padding-left: 10px;
     display: block;
-    max-width: 50%;
+    width: 5000px;
+    max-width: 100%;
 }
 
 p {
