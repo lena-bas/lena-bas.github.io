@@ -68,6 +68,86 @@
       "path": "\\assets\\images\\favicon.ico",
       "mimeType": "image/vnd.microsoft.icon"
     },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C01.jpg": {
+      "path": "\\assets\\images\\lena\\flowers\\01.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C02.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\02.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C03.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\03.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C04.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\04.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C05.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\05.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C06.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\06.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C07.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\07.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C08.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\08.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C09.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\09.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cflowers%5C10.JPG": {
+      "path": "\\assets\\images\\lena\\flowers\\10.JPG",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C01.jpg": {
+      "path": "\\assets\\images\\lena\\people\\01.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C02.jpg": {
+      "path": "\\assets\\images\\lena\\people\\02.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C03.jpg": {
+      "path": "\\assets\\images\\lena\\people\\03.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C04.jpg": {
+      "path": "\\assets\\images\\lena\\people\\04.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C05.jpg": {
+      "path": "\\assets\\images\\lena\\people\\05.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C06.jpg": {
+      "path": "\\assets\\images\\lena\\people\\06.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C07.jpg": {
+      "path": "\\assets\\images\\lena\\people\\07.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C08.jpg": {
+      "path": "\\assets\\images\\lena\\people\\08.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C09.jpg": {
+      "path": "\\assets\\images\\lena\\people\\09.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Clena%5Cpeople%5C10.jpg": {
+      "path": "\\assets\\images\\lena\\people\\10.jpg",
+      "mimeType": "image/jpeg"
+    },
     "%5Cassets%5Cimages%5Clogo.svg": {
       "path": "\\assets\\images\\logo.svg",
       "mimeType": "image/svg+xml"

@@ -4,6 +4,37 @@ github pages
 
 Experimenting with LWC on github pages
 
+# How to build and run locally
+
+I am using VS Code. 
+I already had node and npm installed. 
+
+> [!NOTE]  
+> TODO Add instructions on downloading node and npm 
+
+Once you have node and npm installed, open terminal in VS Code and run following commands:
+- cd lwr-project
+- npm install
+- npm run dev
+
+Application will run at:  http://localhost:3000/
+
+# How to build for production
+
+Run this command inside  lwr-project folder:
+- npm run build:prod-compat
+
+Production artifacts are generated in **lwr-project/site** folder
+
+Copy content of **lwr-project/site** folder, including **all files** and **directories** two levels up into root folder **\lena-bas.github.io**.
+
+Commit to local repository and push to github.
+Usually, after few minutes new version will be available at https://lena-bas.github.io/, although occasionally it may take more. It never took more than about 30 minutes for me.
+
+
+# Working Notes 
+
+
 Following instructions from w381.github.io/README.md - which I created few weeks ago when doing the same exercise on Doca's repository. These instructions are similar to Notes.md in Salesforce-oss/SF_Documentation
 
 

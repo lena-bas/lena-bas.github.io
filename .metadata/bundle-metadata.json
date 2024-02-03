@@ -19,10 +19,8 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/c3a110a8cf1552f50c05259e236d491a5145bc61/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/45eb8f58e0bed16025cf3fbf326808aa3f7df67d/bundle_example_app.js",
       "includedModules": [
-        "example/contactListItem/v/0_0_1",
-        "example/eventWithData/v/0_0_1",
         "data/contacts/v/0_0_1",
         "data/wireGetContactListProvider/v/0_0_1",
         "ui/card/v/0_3_2",
