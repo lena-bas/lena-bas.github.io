@@ -39,6 +39,13 @@ When I first deployed Lena's painting images by mistake nine images in \lena-bas
 This worked fine on my local machine, but broke when deployed to github pages. 
 
 
+# TODO
+
+Learn how to use Salesforce Lightning Design System
+- https://www.salesforceben.com/welcome-to-the-salesforce-lightning-design-system-slds/#:~:text=Salesforce%20describes%20this%20as%20the,platform%2Dagnostic%20design%20system%E2%80%9D.
+
+
+
 # Working Notes 
 
 

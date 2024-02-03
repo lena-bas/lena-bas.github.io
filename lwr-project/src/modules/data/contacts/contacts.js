@@ -5,39 +5,39 @@ export const contacts = [
     },
     {
         Title: 'Yellow',
-        Picture: '/assets/images/lena/flowers/02.jpg'
+        Picture: '/assets/images/lena/flowers/12.jpg'
     },
     {
         Title: 'Bela Rada',
-        Picture: '/assets/images/lena/flowers/03.jpg'
+        Picture: '/assets/images/lena/flowers/13.jpg'
     },
     {
         Title: 'TODO',
-        Picture: '/assets/images/lena/flowers/04.jpg'
+        Picture: '/assets/images/lena/flowers/14.jpg'
     },
     {
         Title: 'Lokvanj',
-        Picture: '/assets/images/lena/flowers/05.jpg'
+        Picture: '/assets/images/lena/flowers/15.jpg'
     },
     {
         Title: 'Red, blue, white',
-        Picture: '/assets/images/lena/flowers/06.jpg'
+        Picture: '/assets/images/lena/flowers/16.jpg'
     },
     {
         Title: 'Framed picture',
-        Picture: '/assets/images/lena/flowers/07.jpg'
+        Picture: '/assets/images/lena/flowers/17.jpg'
     },
     {
         Title: 'Mak',
-        Picture: '/assets/images/lena/flowers/08.jpg'
+        Picture: '/assets/images/lena/flowers/18.jpg'
     },
     {
         Title: 'Lillies',
-        Picture: '/assets/images/lena/flowers/09.jpg'
+        Picture: '/assets/images/lena/flowers/19.jpg'
     },
     {
         Title: 'Mrtva Priroda',
-        Picture: '/assets/images/lena/flowers/10.jpg'
+        Picture: '/assets/images/lena/flowers/20.jpg'
     },
 
 
