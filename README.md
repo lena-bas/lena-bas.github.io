@@ -32,6 +32,13 @@ Commit to local repository and push to github.
 Usually, after few minutes new version will be available at https://lena-bas.github.io/, although occasionally it may take more. It never took more than about 30 minutes for me.
 
 
+# Known Issues
+
+## File names are case sensitive
+When I first deployed Lena's painting images by mistake nine images in \lena-bas.github.io\lwr-project\src\assets\images\lena\flowers were using upper case JPG extension instead of lower case .jpg.
+This worked fine on my local machine, but broke when deployed to github pages. 
+
+
 # Working Notes 
 
 
