@@ -22,6 +22,7 @@ Application will run at:  http://localhost:3000/
 # How to build for production
 
 Run this command inside  lwr-project folder:
+
 - npm run build:prod-compat
 
 Production artifacts are generated in **lwr-project/site** folder
