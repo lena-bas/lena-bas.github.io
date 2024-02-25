@@ -19,7 +19,7 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/b0da9398c9fb117f5b4bc456ced1b1e2372009e8/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/01e1fd08e2c4b6106f3ca0fb96fa10fa40a52c4f/bundle_example_app.js",
       "includedModules": [
         "data/contacts/v/0_0_1",
         "data/wireGetContactListProvider/v/0_0_1",
