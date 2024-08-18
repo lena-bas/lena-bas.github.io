@@ -1,0 +1,14 @@
+<template>
+    <button class="btn default" onclick={goBack} style="margin-bottom: 20px;">
+        &#8592; Back
+    </button>
+    <template if:true={isProductAvailable}>
+        <div class="card">
+            <div class="card-content">
+                <b>{product.name}</b><br /><br />
+                {product.details}
+            </div>
+        </div>
+    </template>
+
+</template>
