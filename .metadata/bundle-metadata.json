@@ -1,36 +1,38 @@
 {
   "bundles": {
-    "lwc": {
-      "version": "2.38.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js",
+    "lwc|v/7_1_3": {
+      "version": "7.1.3",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/7_1_3/s/cc32138c7998cb20339e9a12710ccbd4a80ff1d0/bundle_lwc.js",
       "includedModules": [],
-      "imports": []
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-4vGaodUgM9zcxQJaV7Wkq1OfYjzp6KH7L3ELSXpN4DM="
     },
-    "@lwrjs/app-service/example/module/amd": {
-      "version": "0.9.0",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js",
-      "includedModules": [
-        "lwr/metrics/v/0_9_0",
-        "lwr/init/v/0_9_0"
-      ],
-      "imports": [
-        "lwc/v/2_38_1"
-      ]
-    },
-    "example/app": {
+    "example/app|v/0_0_1": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/eb4573238f2068e85530f7ba31f323fdef938995/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/9f037eada29352fed681ab38b5b9a8f75f8d9fbb/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc|v/7_1_3"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-1BPAJP3pRFosPpD0qsuFat7WK1n7gsexz6PJeYI7Ea8="
+    },
+    "@lwrjs/app-service/example/module/amd|v/0_13_7": {
+      "version": "0.13.7",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_13_7/s/b8a90fc511339ec34277751d16543f949ace4c02/bundle_@lwrjs_app-service_example_module_amd.js",
       "includedModules": [
-        "data/contacts/v/0_0_1",
-        "data/wireGetContactListProvider/v/0_0_1",
-        "ui/card/v/0_3_2",
-        "ui/output/v/0_3_2",
-        "example/contactListItemBubbling/v/0_0_1",
-        "example/eventBubbling/v/0_0_1"
+        "lwr/metrics|v/0_13_7",
+        "lwr/init|v/0_13_7",
+        "lwr/preInit|v/0_13_7"
       ],
       "imports": [
-        "lwc/v/2_38_1"
-      ]
+        "lwr/profiler|v/0_13_7",
+        "lwc|v/7_1_3",
+        "lwr/loader|v/0_13_7"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-h3vzcncmoNAYl7nv3O097GymCHkghASNZ4sufH4nU4E="
     }
   }
 }
