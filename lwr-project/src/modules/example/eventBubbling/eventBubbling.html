@@ -2,9 +2,9 @@
     <!--
     <div style="height:100%; margin:10px; margin-bottom:10px; width: 100%; background-color:burlywood">
     -->
-    <ui-card>
-        <template lwc:if={contacts.data}>
 
+        <template lwc:if={contacts.data}>
+            
             <!-- example-contact-list-item-bubbling emits a bubbling event so a single listener on a containing element works -->
             <div class="contact-list" oncontactselect={handleContactSelect}>
                 <template for:each={contacts.data} for:item="contact">
@@ -17,15 +17,14 @@
 
         </template>
         
-    </ui-card>
-    <ui-card title="">
+
+    
         <template lwc:if={contacts.data}>
 
             <!-- example-contact-list-item-bubbling emits a bubbling event so a single listener on a containing element works -->
             
             <div class="contact-details">
                 <template lwc:if={selectedContact}>
-                    selected contact
                     <img
                         src={selectedContact.Picture}
                         alt="Profile photo"
@@ -49,7 +48,7 @@
 
         </template>
         
-    </ui-card>
+    
 <!--
     </div>
 -->
