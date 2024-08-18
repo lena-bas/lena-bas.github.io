@@ -2,11 +2,8 @@
     width: 300px;
 }
 
-a {
-    display: flex;
-    margin-left: 6px;
-    text-decoration: var(--text-decoration);
-    color: var(--color-text-link);
+a { 
+    margin-left: 6px;   
 }
 
 p {

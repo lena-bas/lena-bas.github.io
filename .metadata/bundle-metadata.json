@@ -19,12 +19,12 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/eb4573238f2068e85530f7ba31f323fdef938995/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/a59cde2353449d7bac5fee2977055a3b81e8504b/bundle_example_app.js",
       "includedModules": [
         "data/contacts/v/0_0_1",
         "data/wireGetContactListProvider/v/0_0_1",
-        "ui/card/v/0_3_2",
         "ui/output/v/0_3_2",
+        "ui/card/v/0_3_2",
         "example/contactListItemBubbling/v/0_0_1",
         "example/eventBubbling/v/0_0_1"
       ],
