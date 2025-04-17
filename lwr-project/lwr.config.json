@@ -4,6 +4,9 @@
             { "dir": "$rootDir/src/modules" },
             {
                 "npm": "lwc-recipes-oss-ui-components"
+            },
+            {
+                "npm": "lightning-base-components"
             }
         ] 
     },
